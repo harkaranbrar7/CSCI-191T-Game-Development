@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1517447680 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1517446981 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\src\glscene.cpp
+	"GLScene.h"
+
+1517445807 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1517271549 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1517447680 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1517445807 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1518048413 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\src\glscene.cpp
+	"GLScene.h"
+	"GLLight.h"
+
+1518049072 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\include\gllight.h
+	<GLScene.h>
+

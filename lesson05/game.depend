@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1517447680 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1517446981 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\src\glscene.cpp
+	"GLScene.h"
+
+1517445807 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson01\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1517271549 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1517447680 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1517445807 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1517876732 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson02\src\glscene.cpp
+	"GLScene.h"
+
+1518481176 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1518481142 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1518481792 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+
+1518481092 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\src\gllight.cpp
+	"GLLight.h"
+
+1518481161 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\include\gllight.h
+	<GLScene.h>
+
+1518481909 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\include\model.h
+	<windows.h>
+	<GL/glut.h>
+
+1518481884 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson03\src\model.cpp
+	<Model.h>
+
+1518484519 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1518484569 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1518481092 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\src\gllight.cpp
+	"GLLight.h"
+
+1518481161 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\include\gllight.h
+	<GLScene.h>
+
+1518484381 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Input.h>
+
+1518481909 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\include\model.h
+	<windows.h>
+	<GL/glut.h>
+
+1518481965 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\src\model.cpp
+	<Model.h>
+
+1518484192 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\include\input.h
+	<Model.h>
+
+1518484203 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson04\src\input.cpp
+	"Input.h"
+
+1518484519 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\main.cpp
+	<windows.h>
+	<GLScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1518484569 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\include\glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1518481092 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\src\gllight.cpp
+	"GLLight.h"
+
+1518481161 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\include\gllight.h
+	<GLScene.h>
+
+1518656678 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\src\glscene.cpp
+	"GLScene.h"
+	<GLLight.h>
+	<Model.h>
+	<Input.h>
+
+1518481909 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\include\model.h
+	<windows.h>
+	<GL/glut.h>
+
+1518653295 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\include\input.h
+	<Model.h>
+
+1518657216 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\src\input.cpp
+	"Input.h"
+
+1518656242 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\src\model.cpp
+	<Model.h>
+	<TextureLoader.h>
+
+1518656515 source:e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\src\textureloader.cpp
+	"TextureLoader.h"
+	<iostream>
+
+1518655561 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\lesson05\include\textureloader.h
+	<GL/gl.h>
+	<SOIL.h>
+
+1518653506 e:\google drive\college stuff\csu fresno\2018\spring 2018\csci 191t\csci191_projects\common\include\soil.h
+

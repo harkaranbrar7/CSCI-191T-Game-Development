@@ -58,15 +58,6 @@ GLint GLScene::drawGLScene()
    plx->scroll(true,"right",0.005);
 */
 
-    glPushMatrix();
-    for(float t=0; t<=1; t+=0.0005)
-    {
-        float xpos = 0 + t*(5-0);
-        float ypos = 0 + t*(6-0);
-        float zpos = 0 + t*(30-0);
-        glTranslated(xpos, ypos, zpos);
-        glutSolidSphere(1.5,40,40);
-    }
 
     glPushMatrix();
     glDisable(GL_LIGHTING);
